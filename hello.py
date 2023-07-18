@@ -1,1 +1,1 @@
-prtint(´´Hello frrom Binder!´´)
+prtint(”Hello from Binder!”)
